@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1691871919225" clover="3.2.0">
-  <project timestamp="1691871919225" name="All files">
+<coverage generated="1691880295971" clover="3.2.0">
+  <project timestamp="1691880295971" name="All files">
     <metrics statements="5" coveredstatements="4" conditionals="2" coveredconditionals="1" methods="1" coveredmethods="1" elements="8" coveredelements="6" complexity="0" loc="5" ncloc="5" packages="1" files="1" classes="1"/>
     <file name="hello_world.ts" path="C:\Users\jcavalcante.admin\Desktop\CICD Labs\LAB3\CI_lab03_01\src\hello_world.ts">
       <metrics statements="5" coveredstatements="4" conditionals="2" coveredconditionals="1" methods="1" coveredmethods="1"/>
