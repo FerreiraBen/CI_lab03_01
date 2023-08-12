@@ -7,6 +7,8 @@ jobs:
       matrix:
         node-version: [16.x, 18.x]
     steps:
+    - name: WSL Permitions
+      run: chmod +x script.sh
     - name: Checkout repository
       uses: actions/checkout@v3
     - name: Set up Node.js ${{ matrix.node-version }}
